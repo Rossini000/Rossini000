@@ -1,26 +1,27 @@
-Olá, eu sou Felipe Rossini
+# Olá! Eu sou Felipe Rossini 👋
 
-Estudante de Engenharia de Software, atualmente focado em desenvolvimento Backend com Java.
+🎓 Estudante de Engenharia de Software  
+☕ Estudando Java e desenvolvimento Backend  
+🚀 Em busca de uma oportunidade de estágio
 
-Sobre mim
+## 🛠️ Atualmente estudando
 
-Estou construindo minha base em desenvolvimento Backend através de estudos, exercícios e projetos práticos.
+- Java
+- Orientação a Objetos
+- Git e GitHub
+- SQL
+- PostgreSQL
 
-Atualmente, meus estudos estão voltados principalmente para Java, Programação Orientada a Objetos, bancos de dados e ferramentas utilizadas no desenvolvimento de aplicações Backend.
+## 📚 Minha jornada
 
-Tecnologias e estudos
-Java
-Programação Orientada a Objetos
-Git e GitHub
-SQL
-PostgreSQL
-Objetivo
+Atualmente estou estudando desenvolvimento Backend com Java,
+construindo projetos para colocar em prática o que estou aprendendo.
 
-Busco minha primeira oportunidade de estágio em desenvolvimento Backend, onde possa aplicar meus conhecimentos, aprender com uma equipe de desenvolvimento e continuar evoluindo profissionalmente.
+## 🎯 Objetivo
 
-Projetos
+Conseguir minha primeira oportunidade como estagiário
+de desenvolvimento Backend Java.
 
-Neste perfil você encontrará projetos e exercícios desenvolvidos durante minha jornada de estudos.
+## 📫 Contato
 
-Contato
 LinkedIn: [Felipe Rossini](https://www.linkedin.com/in/felipe-rossini-997282354/)
