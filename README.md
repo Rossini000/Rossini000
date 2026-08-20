@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Felipe Rossini 👋
 
-<!--
-**Rossini000/Rossini000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+☕ Estudando Java e desenvolvimento Backend  
+🚀 Em busca de uma oportunidade de estágio
 
-Here are some ideas to get you started:
+## 🛠️ Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Orientação a Objetos
+- Git e GitHub
+- SQL
+- PostgreSQL
+
+## 📚 Minha jornada
+
+Atualmente estou estudando desenvolvimento Backend com Java,
+construindo projetos para colocar em prática o que estou aprendendo.
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como estagiário
+de desenvolvimento Backend Java.
+
+## 📫 Contato
+
+LinkedIn: [Felipe Rossini](https://www.linkedin.com/in/felipe-rossini-997282354/)
