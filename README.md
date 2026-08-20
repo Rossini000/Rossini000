@@ -1,7 +1,9 @@
 # Olá! Eu sou Felipe Rossini 👋
 
 🎓 Estudante de Engenharia de Software (4° Período)
+
 ☕ Estudando Java e desenvolvimento Backend
+
 🚀 Em busca de uma oportunidade de estágio
 
 ## 🛠️ Atualmente estudando
